@@ -1,0 +1,2 @@
+Baku,Istanbul,07.09.2024,35
+Baku,Istanbul,07.092024,250

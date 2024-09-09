@@ -1,0 +1,2 @@
+Hotel,1000,Qabala
+Qafqaz,400,Xirdalan
